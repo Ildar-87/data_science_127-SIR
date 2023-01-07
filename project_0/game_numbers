@@ -5,7 +5,7 @@ count = 0
 
 low_point = 0
 top_point = 100
-predict_number = int((low_point + top_point)/2)
+predict_number = int((low_point + top_point)/2) # предполагаемое число
 
 while True:
     count += 1
