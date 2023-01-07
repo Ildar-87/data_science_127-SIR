@@ -21,3 +21,4 @@ while True:
         break
     
 print("Количество попыток:", count)
+
